@@ -12,3 +12,7 @@ Grid Search, bir makine öğrenimi modelinin en verimli hiperparametrelerini bel
 # Normalizasyon
 Bir veri tabanının, veri tekrarını en aza indirgemek ve her tabloda yalnızca ilgili verilerin depolandığından emin olmak için normalleştirilmesi önemlidir. Bir tablo ideal olarak belirli bir konu hakkında olmalı ve sadece destekleyici konular içermelir.
 # Sonuçlar ve Yorum
+
+![Screenshot_881](https://github.com/kekekekekkeke/Gaussian-Naive-Bayes/assets/110430637/1faf28e0-2c2c-4eaa-95a9-bec49e57aedc)
+![Screenshot_880](https://github.com/kekekekekkeke/Gaussian-Naive-Bayes/assets/110430637/b776f9c4-a338-4702-9264-157d48878f4d)
+![Screenshot_879](https://github.com/kekekekekkeke/Gaussian-Naive-Bayes/assets/110430637/800b0fd8-0838-4ef2-9f98-ed840c1a7767)
